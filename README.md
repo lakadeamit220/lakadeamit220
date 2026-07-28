@@ -35,7 +35,5 @@ I also develop **geospatial mapping solutions** using **OpenStreetMap (Nominatim
 ## Connect With Me
 
 **Email:** lakadeamit220@gmail.com
-
 **LinkedIn:** https://www.linkedin.com/in/amit-lakade-771843217
-
 **GitHub:** https://github.com/lakadeamit220
