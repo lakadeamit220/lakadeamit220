@@ -1,86 +1,35 @@
 # Hi, I'm Amit Lakade
 
-**Full Stack Developer** with **2+ years of experience** building real-time IoT platforms, environmental monitoring systems, enterprise applications, and modern web applications.
-
-I enjoy solving real-world engineering problems by designing fast, secure, and scalable applications from frontend to deployment.
-
----
+**Full Stack Developer** with **2+ years of experience** building **real-time IoT platforms, environmental monitoring systems, enterprise applications, and modern web applications**. I enjoy solving real-world engineering problems by designing **fast, secure, and scalable applications** from frontend to deployment.
 
 ## About Me
 
-- Full Stack Developer specializing in React.js, Next.js, Node.js, Express.js, and NestJS
-- Experienced in building real-time IoT platforms using MQTT, Socket.IO, WebSockets, and Redis
-- Develop responsive dashboards, geospatial applications, and live data visualization using React Leaflet and Recharts
-- Build secure REST APIs with JWT Authentication and Role-Based Access Control (RBAC)
-- Deploy production applications using Docker, AWS EC2, Nginx, GitHub Actions, and CI/CD pipelines
-- Passionate about performance optimization, scalable architectures, caching strategies, and clean code
+- Full Stack Developer with experience in building real-time IoT platforms, enterprise applications, and modern web solutions.
+- Develop responsive and interactive web applications using **React.js, Next.js, Vite, Tailwind CSS, Framer Motion, Three.js, Vanta.js, TSParticles, React Leaflet, and Recharts**.
+- Build secure REST APIs and real-time data pipelines using **Node.js, Express.js, NestJS, MQTT, Socket.IO, WebSockets, Redis, MongoDB, and PostgreSQL**.
+- Develop geospatial mapping solutions using **OpenStreetMap (Nominatim API)** and integrate third-party services such as **Web3Forms** and the **Ambee IoT Platform**.
+- Focus on **performance optimization, caching, code splitting, progressive loading, efficient database design, JWT Authentication, RBAC**, and scalable deployment using **Docker, AWS EC2, Nginx, GitHub Actions, and CI/CD pipelines**.
+- Passionate about writing clean, maintainable code and continuously improving development speed with AI-assisted tools.
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-### Frontend
+**Frontend:** React.js • Next.js • Tailwind CSS • React Leaflet • Recharts
 
-- React.js
-- Next.js
-- JavaScript
-- Tailwind CSS
-- React Leaflet
-- Recharts
-- Framer Motion
-- Three.js
-- Vanta.js
-- TSParticles
+**Backend:** Node.js • Express.js • NestJS • REST APIs
 
-### Backend
+**Databases:** MongoDB • PostgreSQL • Redis
 
-- Node.js
-- Express.js
-- NestJS
-- REST APIs
+**Real-Time:** MQTT • Socket.IO • WebSockets
 
-### Databases
+**DevOps:** Docker • AWS EC2 • Nginx • GitHub Actions • CI/CD
 
-- MongoDB
-- PostgreSQL
-- Redis
+**Security:** JWT Authentication • RBAC
 
-### Real-Time Technologies
+**Tools:** Visual Studio Code • Vite • Git • GitHub • Cursor • OpenAI Codex • Google Antigravity
 
-- MQTT
-- Socket.IO
-- WebSockets
-
-### DevOps
-
-- Docker
-- AWS EC2
-- Nginx
-- GitHub Actions
-- CI/CD
-
-### Security
-
-- JWT Authentication
-- RBAC
-
-### Tools
-
-- Git
-- GitHub
-- Vite
-- VS Code
-- Cursor
-- OpenAI Codex
-- Google Antigravity
-
-### AI Tools
-
-- GitHub Copilot
-- ChatGPT
-- Claude
-- Gemini
-- Grok
+**AI Tools:** GitHub Copilot • ChatGPT • Claude • Gemini • Grok
 
 ---
 
@@ -88,70 +37,71 @@ I enjoy solving real-world engineering problems by designing fast, secure, and s
 
 ### Mumbai First Air Local (MFAL)
 
-Real-time environmental intelligence platform for monitoring hyper-local air quality across Mumbai.
+A real-time environmental intelligence platform for monitoring hyper-local air quality using IoT-enabled public lighting infrastructure.
 
-Key Features
+**Highlights**
 
-- MQTT data ingestion
-- Real-time dashboards
-- Interactive geospatial maps
-- Device clustering
-- Reverse geocoding cache
-- Route tracking
-- Redis caching
-- JWT Authentication
-- Docker deployment
-- AWS EC2 hosting
+- Real-time MQTT data ingestion
+- Interactive geospatial dashboards with React Leaflet
+- Reverse geocoding cache using OpenStreetMap
+- Live telemetry with Socket.IO
+- Redis caching and MongoDB batch processing
+- JWT Authentication and RBAC
+- Docker deployment on AWS EC2
 
 ---
 
 ### Yuka Yantra Dashboard
 
-Real-time analytics platform for monitoring air purification systems.
+A real-time analytics dashboard for monitoring air purification systems and environmental performance.
 
-Key Features
+**Highlights**
 
 - MQTT sensor integration
-- Live performance dashboard
-- Predictive maintenance
-- CSV export
+- Live analytics dashboard
+- Predictive maintenance monitoring
 - Redis caching
-- Docker deployment
-- AWS EC2 hosting
+- MongoDB bulk processing
+- Docker deployment on AWS EC2
 
 ---
 
 ### Corporate Websites
 
-Developed modern business websites featuring
+Developed modern, responsive business websites with interactive UI, animations, and automated deployment.
 
-- React
-- Next.js
+**Highlights**
+
+- React.js and Next.js
 - Tailwind CSS
 - Framer Motion
 - Three.js
 - TSParticles
-- CI/CD
 - GitHub Actions
+- CI/CD
 - Responsive Design
 
 ---
 
-## Currently Learning
+## GitHub Stats
 
-- Kubernetes
-- Advanced System Design
-- Cloud Architecture
-- Distributed Systems
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lakadeamit220&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakadeamit220&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Contribution Graph
+
+[![Amit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakadeamit220&theme=github-compact)](https://github.com/lakadeamit220)
 
 ---
 
 ## Connect With Me
 
-Email: lakadeamit220@gmail.com
+**Email:** lakadeamit220@gmail.com
 
-LinkedIn:
-https://www.linkedin.com/in/amit-lakade-771843217
+**LinkedIn:** https://www.linkedin.com/in/amit-lakade-771843217
 
-GitHub:
-https://github.com/lakadeamit220
+**GitHub:** https://github.com/lakadeamit220
