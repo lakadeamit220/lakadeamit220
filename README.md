@@ -14,58 +14,20 @@ I also develop **geospatial mapping solutions** using **OpenStreetMap (Nominatim
 
 ## Tech Stack
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,mongodb,postgres,redis,docker,aws,nginx,git,github,vscode,vite,tailwind,threejs" />
 </p>
 
-React.js • Next.js • Tailwind CSS • React Leaflet • Recharts • Framer Motion • Three.js • Vanta.js • TSParticles
+**Frontend:** React.js • Next.js • Tailwind CSS • React Leaflet • Recharts • Framer Motion • Three.js • Vanta.js • TSParticles
 
----
+**Backend:** Node.js • Express.js • NestJS • REST APIs
 
-### Backend
+**Databases:** MongoDB • PostgreSQL • Redis
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
+**Real-Time:** MQTT • Socket.IO • WebSockets
 
-Node.js • Express.js • NestJS • REST APIs
+**DevOps:** Docker • AWS EC2 • Nginx • GitHub Actions • CI/CD
 
----
+**Tools:** Visual Studio Code • Git • GitHub • Cursor • OpenAI Codex • Google Antigravity
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-</p>
-
-MongoDB • PostgreSQL • Redis
-
----
-
-### Real-Time Technologies
-
-MQTT • Socket.IO • WebSockets
-
----
-
-### DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,git" />
-</p>
-
-Docker • AWS EC2 • Nginx • GitHub Actions • CI/CD
-
----
-
-### Tools
-
-Visual Studio Code • Git • GitHub • Cursor • OpenAI Codex • Google Antigravity
-
----
-
-### AI Tools
-
-GitHub Copilot • ChatGPT • Claude • Gemini • Grok
+**AI Tools:** GitHub Copilot • ChatGPT • Claude • Gemini • Grok
