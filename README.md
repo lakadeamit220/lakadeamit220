@@ -1,15 +1,5 @@
 <h1 align="center">Hi, I'm Amit Lakade</h1>
 
-<p align="center">
-Full Stack Developer | Real-Time IoT | React | Node.js | Docker | AWS
-</p>
-
-<p align="center">
-  <a href="mailto:lakadeamit220@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/amit-lakade-771843217">LinkedIn</a> •
-  <a href="https://github.com/lakadeamit220">GitHub</a>
-</p>
-
 ---
 
 ## About Me
@@ -79,13 +69,3 @@ Visual Studio Code • Git • GitHub • Cursor • OpenAI Codex • Google Ant
 ### AI Tools
 
 GitHub Copilot • ChatGPT • Claude • Gemini • Grok
-
----
-
-## Connect With Me
-
-**Email:** lakadeamit220@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/amit-lakade-771843217
-
-**GitHub:** https://github.com/lakadeamit220
