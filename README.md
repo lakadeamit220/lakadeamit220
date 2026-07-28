@@ -15,22 +15,12 @@ I also develop **geospatial mapping solutions** using **OpenStreetMap (Nominatim
 ## Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,mongodb,postgres,redis,tailwind,vite,docker,aws,nginx,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,mongodb,postgres,redis,tailwind,vite,docker,aws,nginx,git,github,vscode,githubactions&perline=9" />
 </p>
 
-**Additional Technologies:** React Leaflet • Recharts • Framer Motion • Three.js • Vanta.js • TSParticles • MQTT • Socket.IO • WebSockets • REST APIs
+**Technologies:** React.js • Next.js • Node.js • Express.js • NestJS • MongoDB • PostgreSQL • Redis • Tailwind CSS • Vite • Docker • AWS EC2 • Nginx • Git • GitHub • Visual Studio Code • GitHub Actions
 
----
-
-## Cloud & DevOps
-
-- Docker
-- AWS EC2
-- Nginx
-- GitHub Actions
-- CI/CD
-- JWT Authentication
-- Role-Based Access Control (RBAC)
+**Additional:** React Leaflet • Recharts • Framer Motion • Three.js • Vanta.js • TSParticles • MQTT • Socket.IO • WebSockets • REST APIs • JWT Authentication • Role-Based Access Control (RBAC) • CI/CD • OpenStreetMap (Nominatim API) • Web3Forms • Ambee IoT Platform
 
 ---
 
@@ -42,10 +32,16 @@ I also develop **geospatial mapping solutions** using **OpenStreetMap (Nominatim
 
 ---
 
-## Connect With Me
+## Let's Connect
 
-**Email:** lakadeamit220@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/amit-lakade-771843217
-
-**GitHub:** https://github.com/lakadeamit220
+<p>
+  <a href="mailto:lakadeamit220@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amit-lakade-771843217">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/lakadeamit220">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
