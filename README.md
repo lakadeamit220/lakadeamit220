@@ -14,48 +14,31 @@ I also develop **geospatial mapping solutions** using **OpenStreetMap (Nominatim
 
 ## Languages & Frameworks
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,mongodb,postgres,redis,tailwind,vite,docker,aws,nginx,git,github,vscode&perline=8" />
+</p>
 
-**Additional Technologies:** React Leaflet • Recharts • Framer Motion • Vanta.js • TSParticles • WebSockets • REST APIs
+**Additional Technologies:** React Leaflet • Recharts • Framer Motion • Three.js • Vanta.js • TSParticles • MQTT • Socket.IO • WebSockets • REST APIs
 
 ---
 
 ## Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-**Practices:** CI/CD • JWT Authentication • Role-Based Access Control (RBAC)
+- Docker
+- AWS EC2
+- Nginx
+- GitHub Actions
+- CI/CD
+- JWT Authentication
+- Role-Based Access Control (RBAC)
 
 ---
 
 ## Tools & AI
 
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=flat)
+**Development Tools:** Visual Studio Code • Git • GitHub • Cursor • OpenAI Codex • Google Antigravity
 
-**Development Tools:** Visual Studio Code • Vite • Git • GitHub • Cursor • OpenAI Codex • Google Antigravity
+**AI Tools:** GitHub Copilot • ChatGPT • Claude • Gemini • Grok
 
 ---
 
